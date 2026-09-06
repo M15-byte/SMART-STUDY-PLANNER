@@ -1,0 +1,5 @@
+Programming Fundamentals|Control Structures & Loops|Monday|45
+Web Systems|Responsive CSS Grid|Tuesday|120
+Data Communication|OSI 7-Layer Model|Wednesday|85
+Discrete Mathematics|Truth Tables & Logic|Thursday|20
+Programming Fundamentals|Python File I/O|Friday|60
