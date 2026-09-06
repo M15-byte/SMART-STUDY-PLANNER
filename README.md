@@ -1,0 +1,2 @@
+# SMART STUDY PLANNER
+The Smart Study Planner is a console-based Python application designed to assist students in tracking, organizing, and analyzing their study sessions across different academic subjects over a semester. As a student in Computer Science, managing study time across subjects like Programming Fundamentals, Data Communication, Discrete Mathematics, and Web Systems is essential for academic success.
